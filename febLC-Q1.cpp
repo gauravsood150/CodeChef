@@ -22,7 +22,7 @@ int main()
             sum+=100;
         }
       }
-      cout<<sum;
+      cout<<sum<<endl;
       T--;
     }
 }
